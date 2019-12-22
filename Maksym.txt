@@ -1,1 +1,3 @@
 Группа: ІНз-61с
+Курс: 4
+Назва предмету: Technical Solution Support
